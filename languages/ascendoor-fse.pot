@@ -1,0 +1,448 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-04 16:24+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:119
+msgid "Thank you for installing the Ascendoor FSE theme!"
+msgstr ""
+
+#: functions.php:121
+msgid "Go to pro"
+msgstr ""
+
+#: functions.php:122
+msgid "Theme Demo"
+msgstr ""
+
+#: functions.php:123
+msgid "Theme Information"
+msgstr ""
+
+#: functions.php:124
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions.php:125
+msgid "Support?"
+msgstr ""
+
+#: pattern-category.php:15
+msgid "Ascendoor Pattern"
+msgstr ""
+
+#: patterns/404.php:17
+msgid "Hey captain looks like you are heading in wrong planet..."
+msgstr ""
+
+#: patterns/404.php:26
+msgid "Back to Home"
+msgstr ""
+
+#: patterns/about.php:19
+msgid "ABOUT US"
+msgstr ""
+
+#: patterns/about.php:23
+msgid "Seasonal Fashion Wear"
+msgstr ""
+
+#: patterns/about.php:27
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed accumsan "
+"aliquam quam et feugiat. Morbi efficitur lacus urna, nec pulvinar metus "
+"ornare dignissim. Nullam sit amet sodales dolor. Morbi sed massa elit. "
+"Quisque pellentesque cursus quam in egestas. Sed commodo suscipit dictum. "
+"Sed tempus quis risus et tincidunt. Maecenas consequat ligula ante, vitae "
+"convallis lectus tristique ut. Lorem ipsum dolor sit amet, consectetur "
+"adipiscing elit. Sed accumsan aliquam quam et feugiat. Morbi efficitur lacus "
+"urna, nec pulvinar metus ornare dignissim. Nullam sit amet sodales dolor. "
+"Morbi sed massa elit. Quisque pellentesque cursus quam in egestas. Sed "
+"commodo suscipit dictum. Sed tempus quis risus et tincidunt. Maecenas "
+"consequat ligula ante, vitae convallis lectus tristique ut."
+msgstr ""
+
+#: patterns/about.php:32
+msgid "Read About Us"
+msgstr ""
+
+#: patterns/banner.php:15
+msgid "Redefining beauty"
+msgstr ""
+
+#: patterns/banner.php:19
+msgid "Femininity and Elegance"
+msgstr ""
+
+#: patterns/banner.php:23
+msgid ""
+"Many variations of passages of Lorem Ipsum available, but the majority have "
+"suffered alteration in some form, by injected humour, or randomised. Lorem "
+"ipsum dolor sit amet consectetur adipiscing elit ut convallis ullamcorper "
+"purus, litora cum sollicitudin conubia nostra posuere nec sociis molestie "
+"sapien potenti, praesent nulla velit mus scelerisque felis vel nisi neque "
+"egestas"
+msgstr ""
+
+#: patterns/banner.php:28 patterns/mission.php:73 patterns/service.php:45
+#: patterns/service.php:71 patterns/service.php:97 patterns/service.php:125
+#: patterns/service.php:151 patterns/service.php:177
+msgid "Read More"
+msgstr ""
+
+#: patterns/contact-us.php:18
+msgid "Address"
+msgstr ""
+
+#: patterns/contact-us.php:22
+msgid "California, USA"
+msgstr ""
+
+#: patterns/contact-us.php:34
+msgid "Phone"
+msgstr ""
+
+#: patterns/contact-us.php:38
+msgid "+91 1234567890"
+msgstr ""
+
+#: patterns/contact-us.php:50
+msgid "Email"
+msgstr ""
+
+#: patterns/contact-us.php:54 patterns/header.php:34
+msgid "supportfse@gmail.com"
+msgstr ""
+
+#: patterns/counter.php:14
+msgid "200+"
+msgstr ""
+
+#: patterns/counter.php:18
+msgid "BRANDS"
+msgstr ""
+
+#: patterns/counter.php:26
+msgid "10,000+"
+msgstr ""
+
+#: patterns/counter.php:30
+msgid "DESIGNS"
+msgstr ""
+
+#: patterns/counter.php:38
+msgid "100,000+"
+msgstr ""
+
+#: patterns/counter.php:42 patterns/mission.php:53
+msgid "CUSTOMERS"
+msgstr ""
+
+#: patterns/counter.php:50
+msgid "60+"
+msgstr ""
+
+#: patterns/counter.php:54 patterns/mission.php:65
+msgid "COUNTRIES"
+msgstr ""
+
+#: patterns/cta.php:11
+msgid "GET THE LATEST UPDATE!"
+msgstr ""
+
+#: patterns/cta.php:15
+msgid "Sign up for our newsletter and never miss a story"
+msgstr ""
+
+#: patterns/cta.php:20
+msgid "JOIN THE CLUB"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid ""
+"Lets make Something great together We are trusted by over 500+ clients who "
+"use our services to join."
+msgstr ""
+
+#: patterns/footer.php:26
+msgid "Need Help?"
+msgstr ""
+
+#: patterns/footer.php:30
+msgid "Support"
+msgstr ""
+
+#: patterns/footer.php:34
+msgid "Get Started"
+msgstr ""
+
+#: patterns/footer.php:38
+msgid "Terms of Use"
+msgstr ""
+
+#: patterns/footer.php:42
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer.php:48
+msgid "Learn More"
+msgstr ""
+
+#: patterns/footer.php:52
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:56
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:60
+msgid "Customers"
+msgstr ""
+
+#: patterns/footer.php:64
+msgid "Newsletter"
+msgstr ""
+
+#: patterns/footer.php:70
+msgid "Get in Touch"
+msgstr ""
+
+#: patterns/footer.php:74
+msgid "163 BD Lorem, Ipsum"
+msgstr ""
+
+#: patterns/footer.php:78
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/footer.php:82
+msgid "Opening Hours: 10:00 - 13:00"
+msgstr ""
+
+#: patterns/footer.php:90
+msgid "Copyright © 2023 | All Right Reserved | Theme by "
+msgstr ""
+
+#: patterns/footer.php:90
+msgid "Ascendoor"
+msgstr ""
+
+#: patterns/header.php:22
+msgid "1234 567 890"
+msgstr ""
+
+#: patterns/mission.php:22
+msgid "our Mission"
+msgstr ""
+
+#: patterns/mission.php:26
+msgid "Goals & Achivement"
+msgstr ""
+
+#: patterns/mission.php:30
+msgid ""
+"Ipsum simplemente el texto de relleno de las imprentas y archivos de texto. "
+"Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el "
+"año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) "
+"desconocido usó una galería de textos y los mezcló de tal manera que logró "
+"hacer un libro de textos especimen. ."
+msgstr ""
+
+#: patterns/mission.php:37
+msgid "30+"
+msgstr ""
+
+#: patterns/mission.php:41
+msgid "AWARDS"
+msgstr ""
+
+#: patterns/mission.php:49
+msgid "250+"
+msgstr ""
+
+#: patterns/mission.php:61
+msgid "20+"
+msgstr ""
+
+#: patterns/sales-advertisement.php:15
+msgid "Winter Sale 50% Off"
+msgstr ""
+
+#: patterns/sales-advertisement.php:19 patterns/sales-advertisement.php:33
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing, elit felis donec penatibus"
+msgstr ""
+
+#: patterns/sales-advertisement.php:29
+msgid "20% Off On Woolen Items"
+msgstr ""
+
+#: patterns/service.php:14
+msgid "OUR SERVICES"
+msgstr ""
+
+#: patterns/service.php:18
+msgid "Services We Provide"
+msgstr ""
+
+#: patterns/service.php:36
+msgid "DESIGNER BAGS"
+msgstr ""
+
+#: patterns/service.php:40 patterns/service.php:66 patterns/service.php:92
+#: patterns/service.php:120 patterns/service.php:146 patterns/service.php:172
+msgid ""
+"Lorem ipsum dolor sit amet, suas hinc eros has te. Ne ponderum detraxit "
+"quaerendum per."
+msgstr ""
+
+#: patterns/service.php:62
+msgid "DESIGNER SHOES"
+msgstr ""
+
+#: patterns/service.php:88
+msgid "DESIGNER JEWEL"
+msgstr ""
+
+#: patterns/service.php:116
+msgid "MAKEUP KITS"
+msgstr ""
+
+#: patterns/service.php:142
+msgid "BEAUTY SERVICE"
+msgstr ""
+
+#: patterns/service.php:168
+msgid "DESIGNER CLOTHES"
+msgstr ""
+
+#: patterns/sidebar.php:15
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/sidebar.php:33
+msgid "Latest Post"
+msgstr ""
+
+#: patterns/sidebar.php:41
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:49
+msgid "Latest Comment"
+msgstr ""
+
+#: patterns/team.php:14
+msgid "our Team"
+msgstr ""
+
+#: patterns/team.php:18
+msgid "Ultimate Fashion Team"
+msgstr ""
+
+#: patterns/team.php:33
+msgid "Maria Timons"
+msgstr ""
+
+#: patterns/team.php:39
+msgid "CEO /Designer"
+msgstr ""
+
+#: patterns/team.php:63
+msgid "Sophie Gold"
+msgstr ""
+
+#: patterns/team.php:69
+msgid "Makeup Artist"
+msgstr ""
+
+#: patterns/team.php:93
+msgid "Katie Simons"
+msgstr ""
+
+#: patterns/team.php:99
+msgid "Manager"
+msgstr ""
+
+#: patterns/testimonial.php:14
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:18
+msgid "What Client Says"
+msgstr ""
+
+#: patterns/testimonial.php:32
+msgid "Salma Doe"
+msgstr ""
+
+#: patterns/testimonial.php:36
+msgid "Artist"
+msgstr ""
+
+#: patterns/testimonial.php:41 patterns/testimonial.php:63
+#: patterns/testimonial.php:85
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit quam, eget ad sem non "
+"ut proin nunc phasellus bibendum, aptent vitae morbi semper maecenas mauris "
+"id. Turpis posuere dapibus netus pulvinar cum metus eros non eleifend vitae."
+msgstr ""
+
+#: patterns/testimonial.php:54
+msgid "James Fury"
+msgstr ""
+
+#: patterns/testimonial.php:58
+msgid "FashWorld CEO"
+msgstr ""
+
+#: patterns/testimonial.php:76
+msgid "Katherine Joe"
+msgstr ""
+
+#: patterns/testimonial.php:80
+msgid "Model"
+msgstr ""
+
+#: patterns/why-choose-us.php:20
+msgid "Why choose us"
+msgstr ""
+
+#: patterns/why-choose-us.php:24
+msgid "Our Fashion Design Services"
+msgstr ""
+
+#: patterns/why-choose-us.php:28
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed accumsan "
+"aliquam quam et feugiat. Morbi efficitur lacus urna."
+msgstr ""
+
+#: patterns/why-choose-us.php:42
+msgid "Quick Response"
+msgstr ""
+
+#: patterns/why-choose-us.php:46 patterns/why-choose-us.php:62
+msgid ""
+"Phasellus sociosqu dictum ultrices vel penatibus massa. Litora tristique "
+"feugiat libero cum ac tortor consequat."
+msgstr ""
+
+#: patterns/why-choose-us.php:58
+msgid "Creative Support"
+msgstr ""

@@ -1,0 +1,133 @@
+/*
+Theme Name: Ascendoor FSE
+Theme URI: https://ascendoor.com/themes/ascendoor-fse/
+Author: Ascendoor
+Author URI: https://ascendoor.com/
+Description: Ascendoor FSE, a block-based WordPress theme, offers full site editing capabilities while maintaining a lightweight structure. With its user-friendly visual editing interface, you can customize your website without any coding skills. The theme provides a diverse range of patterns, totaling 15 options, allowing users to achieve simple and stylish designs. It is a versatile theme that can be utilized for various purposes including representing art, promoting businesses or events, showcasing portfolios, starting blogs, launching webshops, and selling products. Ascendoor FSE includes custom templates, sections, and patterns, all of which can be easily customized using the WordPress block editor. It uses blocks to help you create unique designs, and you can even change templates and parts of your theme dynamically. Check the demo at: https://demos.ascendoor.com/ascendoor-fse/
+Version: 1.0.1
+Requires at least: 5.0
+Requires PHP: 7.4
+Tested up to: 6.2
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: ascendoor-fse
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, wide-blocks, blog, threaded-comments
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+*/
+
+.wp-site-blocks > * + * {
+	margin-top: 0;
+}
+
+/*--------------------------------------------------------------
+# Button hover
+--------------------------------------------------------------*/
+.wp-block-search__button:hover,
+.wp-block-file .wp-block-file__button:hover,
+.wp-block-button__link:hover {
+	opacity: 0.8;
+}
+
+/*--------------------------------------------------------------
+# Top Header Responsive
+--------------------------------------------------------------*/
+@media (max-width: 768px) {
+	.is-layout-flex.wp-container-5.wp-block-group{
+		justify-content: center;
+	}
+	.is-layout-flow.wp-container-9.wp-block-column.is-vertically-aligned-center {
+		justify-content: center;
+		display: flex;
+	}
+}
+
+/*--------------------------------------------------------------
+# Navigation Header Shadwow
+--------------------------------------------------------------*/
+.is-layout-constrained.wp-container-18.wp-block-group.alignfull {
+	box-shadow: 0px 4px 12px 0px #ebe7e7;
+}
+
+/*--------------------------------------------------------------
+# Responsive Hamburger Icon
+--------------------------------------------------------------*/
+button.wp-block-navigation__responsive-container-open{
+	border: 1px solid #727272;
+}
+
+/*--------------------------------------------------------------
+# Removing Left Margin From Search Button
+--------------------------------------------------------------*/
+.wp-block-search__button {
+	margin-left: 0;
+}
+
+/*--------------------------------------------------------------
+# Calander Widget
+--------------------------------------------------------------*/
+span.wp-calendar-nav-prev a{
+	text-decoration: none;
+}
+
+/*--------------------------------------------------------------
+# Scroll To Top
+--------------------------------------------------------------*/
+div.scroll-to-top {
+	opacity: 0;
+	width: 50px;
+	right: 30px;
+	height: 50px;
+	bottom: 30px;
+	z-index: 200;
+	position: fixed;
+	text-align: center;
+	visibility: hidden;
+	text-decoration: none;
+	display: inline-block;
+	transition: all 0.3s ease-in;
+	background-color: #9b51e0;
+}
+
+div.scroll-to-top::after {
+	display: flex;
+	color: white;
+	font-size: 36px;
+	content: "\f106";
+	align-items: center;
+	justify-content: center;
+	font-family: FontAwesome;
+}
+
+div.scroll-to-top:hover {
+	cursor: pointer;
+	background-color: rgb(126, 126, 126);
+}
+
+div.scroll-to-top.show {
+	opacity: 1;
+	visibility: visible;
+}
+
+/*--------------------------------------------------------------
+# Latest Posts Date and Author Css
+--------------------------------------------------------------*/
+.wp-block-latest-posts.wp-block-latest-posts__list{
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+.wp-block-latest-posts__post-author {
+	float: left;
+	margin-inline-end: 15px;
+}
+.wp-block-latest-posts.wp-block-latest-posts__list a,
+.wp-block-latest-posts__post-title{
+	display: block;
+	margin-bottom: 5px;
+}
+.wp-block-latest-posts__post-date::after{
+	clear: both;
+}
